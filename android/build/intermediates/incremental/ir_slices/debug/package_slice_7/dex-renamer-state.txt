@@ -1,0 +1,4 @@
+#Sat Apr 21 00:39:06 IST 2018
+base.0=D\:\\AndroidWork\\tensorflow-style-transfer-android-codelab-start\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
